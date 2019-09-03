@@ -1,0 +1,6 @@
+E:\PERSONAL\Interview_c#\reflection_csharp\reflection_csharp\bin\Debug\reflection_csharp.exe.config
+E:\PERSONAL\Interview_c#\reflection_csharp\reflection_csharp\obj\Debug\reflection_csharp.csprojResolveAssemblyReference.cache
+E:\PERSONAL\Interview_c#\reflection_csharp\reflection_csharp\bin\Debug\reflection_csharp.exe
+E:\PERSONAL\Interview_c#\reflection_csharp\reflection_csharp\bin\Debug\reflection_csharp.pdb
+E:\PERSONAL\Interview_c#\reflection_csharp\reflection_csharp\obj\Debug\reflection_csharp.exe
+E:\PERSONAL\Interview_c#\reflection_csharp\reflection_csharp\obj\Debug\reflection_csharp.pdb
